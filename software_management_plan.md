@@ -38,7 +38,7 @@ Based on The Software Sustainability Institute. (2018). Checklist for a Software
 
 - Testing suites will be provided for all code within the codebase, to ensure that updates do not break previous functionality. (R13, R14, R15, R19, R20, R21)
 
-## ow will your software contribute to research?
+## How will your software contribute to research?
 
 - End product of "value-added" catalogues will enable the tackling of a vast range of scientific problems in the LSST-era; almost all astronomical challenges will require the inclusion of some ancillary data, and we will provide a novel, robust, thorough, uniform, and easy-to-access platform to obtain these data from.
 
